@@ -1,0 +1,1 @@
+Enter a name and the first letter will be capitalized, the rest of the string will be set to lowercase.
